@@ -1,5 +1,5 @@
 # Open-AI-Gym-Cartpole-Reinforcement-Learning
-Implmenting Reinforcement Learning for a Cartpole using the Open AI Gym Environment
+CSC411 Assignment: Implementing Reinforcement Learning for a Cartpole using the Open AI Gym Environment
 
 A neural network with no hidden layers was implemented to learn how to balance a pole on a cart by controlling the carts movement to either the left or right.
 
